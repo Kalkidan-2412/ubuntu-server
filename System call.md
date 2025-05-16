@@ -145,9 +145,11 @@ return 0;
 ```
 ### Reference
 
-https://www.manageengine.com/products/eventlog/kb/linux/linux-shutdown-command.html
+- [W3schools: Shutdown system call](https://www.w3schools.in/c-programming/examples/c-program-to-shutdown-windows-and-linux-systems)
 
-https://www.geeksforgeeks.org/introduction-of-system-call/
+- [How to shutdown your Linux system using the command line](https://www.manageengine.com/products/eventlog/kb/linux/linux-shutdown-command.html)
 
-https://www.w3schools.in/c-programming/examples/c-program-to-shutdown-windows-and-linux-systems
+- [Introduction to system call](https://www.geeksforgeeks.org/introduction-of-system-call/)
+
+
 
