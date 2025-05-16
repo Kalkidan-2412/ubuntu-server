@@ -1,5 +1,5 @@
 # ubuntu-server
-- [What is Ubuntu server?](#what-is-ububntu-srever?)
+- [What is Ubuntu server?](/what-is-ububntu-srever?)
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Requirements](#requirements)
