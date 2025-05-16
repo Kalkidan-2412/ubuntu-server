@@ -234,7 +234,7 @@ The error message on my screen suggests that Intel VT-x is disabled, preventing 
 
 10. Press f10 to save the changes and exit.
 
-![exit the boot window](Images/pic12.png)
+![exit the boot window](Images/Picture12.jpg)
 
 # Filesystem Support
 
@@ -454,4 +454,4 @@ Virtualization works by creating virtual versions of physical computing resource
 
 - [Ubuntu server vs. Ubuntu desktop](https://www.makeuseof.com/tag/difference-ubuntu-desktop-ubuntu-server/)
 
-- [server acadamy:](https://serveracademy.com/blog/ubuntu-server-vs-desktop/#:~:text=and%20use%20cases.-,Ubuntu%20Server%20vs%20Desktop%20vs%20Core%20Table,management%2C%20or%20specific%20business%20applications)
+- [server acadamy:Ubuntu server vs. Ubuntu desktop](https://serveracademy.com/blog/ubuntu-server-vs-desktop/#:~:text=and%20use%20cases.-,Ubuntu%20Server%20vs%20Desktop%20vs%20Core%20Table,management%2C%20or%20specific%20business%20applications)
