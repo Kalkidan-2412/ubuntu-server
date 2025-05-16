@@ -198,7 +198,7 @@ requirements).
 
 • Enter user credentials and password.
 
-![enter the credentials and password](Images/Picture8.jpg)
+![enter the credentials and password](Images/Picture9.jpg)
 
 **Step 6: Finish Installation**
 
@@ -207,8 +207,6 @@ requirements).
 2. Once completed, restart the virtual machine within VMware Workstation. 
 
 3. Log in to the server with the user credentials you created.
-
-
 
 # Issues or Problems Faced
 
@@ -387,9 +385,9 @@ how in troubleshooting must be recognized.
 
 To sum up, Ubuntu Server emerges as a top choice for both organizations and individuals in search of a secure, scalable, and versatile server operating system, ideally equipped to meet the evolving requirements of today’s IT environments.
 
-# Virtualization in Modern Operating Systems
+## Virtualization in Modern Operating Systems
 
-## What is Virtualization?
+### What is Virtualization?
 
 Virtualization is a technology that enables the creation of virtual environments from a single physical machine, allowing for more efficient use of resources by distributing them across computing environments. 
 
@@ -397,7 +395,7 @@ Using software, virtualization creates an abstraction layer over computer hardwa
 
 Today, virtualization is a fundamental practice in enterprise IT architecture and a key enabler of cloud computing. It allows cloud service providers (CSPs) such as IBM Cloud®, Microsoft Azure, Google Cloud and Amazon Web Services (AWS), to optimally utilize their IT infrastructure to deliver scalable resources. For businesses, this means they only purchase the computing resources they need and then scale them cost-effectively as their workloads grow, maximizing their investment.
 
-## Benefits of Virtualization
+### Benefits of Virtualization
 
 Virtualization offers numerous benefits to both on-premises and cloud-based data centers that support IT operations, including the following: 
 
@@ -413,7 +411,7 @@ Virtualization offers numerous benefits to both on-premises and cloud-based data
 
 • Cost-effectiveness 
 
-## Main Components of Virtualization
+### Main Components of Virtualization
 
 Virtualization relies on several key components to create and manage virtual environments. Each plays a vital role in ensuring the effective allocation of resources so multiple VMs can run simultaneously without interference.
 
@@ -423,16 +421,16 @@ Virtualization relies on several key components to create and manage virtual env
 
 • Hypervisor 
 
-### Physical Machine
+#### Physical Machine
 
 The physical machine, also referred to as the “host machine” is the hardware (e.g., server or computer) that provides CPU, memory, storage and network resources for the virtual machines.
 
-### Virtual Machine
+#### Virtual Machine
 
 A virtual machine (VM) is a virtual environment that simulates a physical computer in software form. VMs are usually referred to as guests, with one or more “guest” machines running on a host machine. Virtual machines typically consist of several files, including the configuration, storage for the 
 virtual hard drive and other dependencies. By sharing system resources among virtual machines, virtualization offers on-demand scalability, efficiency and cost savings.
 
-### Hypervisors
+#### Hypervisors
 
 A hypervisor is the software layer that coordinates VMs. It serves as an interface between the VM and the underlying physical hardware, ensuring that each has access to the physical resources it needs to execute. It also makes sure that the VMs don’t interfere with each other by impinging on each other’s memory space or compute cycles.
 
