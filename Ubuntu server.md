@@ -31,5 +31,5 @@
 - [How Virtualization Works](#how-virtualization-works)
 - [Reference](#reference)
   
-![Ununtu server]()
+![Ununtu server](Images/Picture1.jpg)
   
