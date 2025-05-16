@@ -55,7 +55,7 @@ The command "sudo shutdown -h now" initiates an immediate system shutdown on a L
    
 `sudo shutdown -r now ` 
 
-The command "sudo shutdown -r now" is used to initiate a system shutdown and restartimmediately on Linux. 
+The command "sudo shutdown -r now" is used to initiate a system shutdown and restart immediately on Linux. 
 
 3) Scheduling a shutdown on Linux
    
