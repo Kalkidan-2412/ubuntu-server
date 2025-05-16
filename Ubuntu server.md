@@ -129,7 +129,7 @@ additional packages.
 
 • A tool like **Rufus** (for Windows) or **Startup Disk Creator** (for Ubuntu) to create a bootable USB.
 
-
+![Ubuntu server requirements](Images/Picture2.jpg)
 
 # How to Install Ubuntu Server?
 
@@ -138,7 +138,7 @@ The process of downloading Ubuntu Server and setting it up on VMware allows user
 **Step 1: Prepare VMware Workstation** 
 1. Download and install VMware Workstation from the official VMware website. Ensure your system meets the minimum hardware requirements.  
 
-
+![VMware website](Images/Picture3.jpg)
 
 2.Launch VMware Workstation and ensure you have administrative access on your device.  
 
@@ -146,17 +146,21 @@ The process of downloading Ubuntu Server and setting it up on VMware allows user
 
 1. Visit the official Ubuntu website and download the latest stable version of the Ubuntu Server ISO file.
 
-
+![Official ubuntu website](Images/Picture5.jpg)
 
 **Step 3: Create a New Virtual Machine in VMware Workstation.**
 
 1. Open VMware Workstation and click **"Create a New Virtual Machine."**
+
+![VMware workstation home page](Images/Picture4.jpg)
 
 2. Choose **Custom (advanced)** or **Typical (recommended)** as per your preference. 
 
 3. In the wizard: 
 
 • Select **Installer disc image file (ISO)** and browse for the downloaded Ubuntu Server ISO file. 
+
+![select the iso file in the VMware workstation](Images/Picture6.jpg)
 
 • Name the virtual machine and choose the location where it will be stored. 
 
@@ -170,7 +174,7 @@ The process of downloading Ubuntu Server and setting it up on VMware allows user
 
 **Disk space:** At least 10 GB (for a minimal installation; more for additional packages).
 
-
+![memory for the virtual machine](Images/Picture7.jpg)
 
 2. Configure the virtual network (choose NAT or Bridged based on your setup 
 requirements). 
@@ -180,6 +184,8 @@ requirements).
  
 **Step 5: Start the Installation**
 
+ ![install ubuntu server](Images/Picture8.jpg)
+ 
 1. Select the newly created virtual machine and click **Power on this virtual machine.** 
 
 2. Follow the Ubuntu Server installation prompts: 
@@ -192,7 +198,7 @@ requirements).
 
 • Enter user credentials and password.
 
-
+![enter the credentials and password](Images/Picture8.jpg)
 
 **Step 6: Finish Installation**
 
@@ -206,6 +212,7 @@ requirements).
 
 # Issues or Problems Faced
 
+![Error on workstation](Images/Picture11.jpg)
 
 The error message on my screen suggests that Intel VT-x is disabled, preventing virtual machine from starting in VMware Workstation 16 Player. Here's a step-by-step solution to fix : 
 
@@ -229,7 +236,7 @@ The error message on my screen suggests that Intel VT-x is disabled, preventing 
 
 10. Press f10 to save the changes and exit.
 
-
+![exit the boot window](Images/pic12.png)
 
 # Filesystem Support
 
@@ -435,3 +442,18 @@ Virtualization works by creating virtual versions of physical computing resource
 
 # Reference
 
+- [Ubuntu Server Download](https://ubuntu.com/download/server)
+
+- [	Wikipedia: Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
+
+-  [Ubuntu Server System Requirements](https://ubuntu.com/download/server#system-requirements-lts)
+
+-  [VMware Workstation download](https://blogs.vmware.com/workstation/2020/09/workstation-16-now-available.html)
+
+-  [Profolus: Advantages and Dsadvantages of Ubuntu server](https://www.profolus.com/topics/ubuntu-operating-system-advantages-and-disadvantages/)
+
+- [Ubuntu server documentation/tutorial](https://documentation.ubuntu.com/server/tutorial/basic-installation/#basic-installation)
+
+- [Ubuntu server vs. Ubuntu desktop](https://www.makeuseof.com/tag/difference-ubuntu-desktop-ubuntu-server/)
+
+- [server acadamy:](https://serveracademy.com/blog/ubuntu-server-vs-desktop/#:~:text=and%20use%20cases.-,Ubuntu%20Server%20vs%20Desktop%20vs%20Core%20Table,management%2C%20or%20specific%20business%20applications)
