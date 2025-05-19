@@ -1,4 +1,4 @@
-# *UBUNTU SERVER*
+# **UBUNTU SERVER**
 
 # CONTENTS
 
@@ -336,37 +336,37 @@ It is also worth mentioning that another disadvantage of Ubuntu, as well as of o
 
 # Recommendations for Improvement
 
-**✓ Simplify Beginner Troubleshooting**  
+**1. Simplify Beginner Troubleshooting**  
  
 A lack of specialized technical help makes troubleshooting Ubuntu Server difficult for many users. Canonical might make technical problems easier for novices and non-expert users by implementing user-friendly features like streamlined logs or guided error 
 resolution interfaces. 
 
-**✓ Increase the Application Ecosystem**
+**2. Increase the Application Ecosystem**
 
 Limited application options are frequently cited by users as a disadvantage. Canonical might work with developers to include more popular software into Ubuntu Server, especially enterprise-grade programs and gaming apps. It would become much more appealing if it were compatible with other commonly used tools. 
 
-**✓ Improve the Integration of Community Support**
+**3. Improve the Integration of Community Support**
 
 Although the open-source community is a great resource, Ubuntu Server users would gain from community solutions being more closely integrated into the operating system. Users could find answers more rapidly, for example, if system utilities included community-driven FAQs, tutorials, or solutions.  
 
-**✓ Boost Driver Compatibility**  
+**4. Boost Driver Compatibility**  
 
 Users may become frustrated by sporadic incompatibilities with particular devices, like wireless cards or printers. To guarantee seamless interoperability across all devices, Canonical should keep concentrating on creating universal drivers and collaborating closely with hardware manufacturers.
 
-**✓ Boost Open-Source Cooperation** 
+**5. Boost Open-Source Cooperation** 
 
 One popular criticism is that Ubuntu is becoming more commercialized. Canonical can restore user confidence in the open-source ideology by re-engaging with the community more thoroughly and making sure that upgrades continue to adhere to collaborative development norms. 
 
-**✓ Introduce Easier GUI Options for Beginners**
+**6. Introduce Easier GUI Options for Beginners**
 
 While advanced users appreciate the efficiency of the command-line interface, 
 newcomers often struggle with it. Providing optional lightweight graphical tools or guided configuration setups within Ubuntu Server would lower the entry barrier for inexperienced users. 
 
-**✓ Focus on Accessibility for All Users**
+**7. Focus on Accessibility for All Users**
 
 Canonical can explore developing Ubuntu Server features tailored for smaller-scale personal use cases, like home servers and hobby projects, as these are becoming increasingly popular. Expanding documentation and tutorials targeting such use cases could further engage users. 
 
-**✓ Emphasize Advanced Security Features**
+**8. Emphasize Advanced Security Features**
 
 While Ubuntu Server already provides robust security, adding user-friendly tools for encryption management, security auditing, or vulnerability scanning would enhance its appeal to both individual users and organizations.
 
